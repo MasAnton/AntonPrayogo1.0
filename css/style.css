@@ -1,0 +1,25 @@
+body {
+  height: 3000px;
+}
+.jumbotron1 {
+  padding-top: 2rem;
+  background-color: rgb(213, 216, 219);
+}
+
+.display-4 {
+  padding-top: 7px;
+}
+
+#galery {
+  padding-top: 2rem;
+  background-color: #0099ff;
+}
+
+#kontak {
+  padding-top: 2rem;
+  background-color: #f3f4f5;
+}
+
+footer {
+  background-color: ;
+}
